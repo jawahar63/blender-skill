@@ -37,7 +37,7 @@ Download the Blender MCP Add-on from:
 https://www.blender.org/lab/mcp-server
 
 Install the add-on inside Blender:
-
+<img width="1448" height="345" alt="image" src="https://github.com/user-attachments/assets/b43241a7-0db9-4146-99b2-ba070422b519" />
 1. Open Blender
 2. Go to Blender mcp link
 3. There will be button Called Drag and Drop into Blender
@@ -55,6 +55,8 @@ After enabling the add-on:
 4. Save Preferences
 
 ### 4. Add This Skill to Claude Desktop
+<img width="1889" height="858" alt="image" src="https://github.com/user-attachments/assets/96a4f309-aa5d-4a4a-8e6b-45f4961bb4e3" />
+
 
 Place this skill file into your Claude Desktop skills directory.
 
