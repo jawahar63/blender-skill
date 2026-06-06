@@ -188,7 +188,3 @@ Try:
 * Always verify the connection before giving complex tasks.
 * More detailed prompts generally produce better results.
 * Local communication is typically faster and more reliable than cloud-based workflows.
-
-## License
-
-MIT License
